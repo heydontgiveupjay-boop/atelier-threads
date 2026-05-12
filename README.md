@@ -105,7 +105,7 @@ Feel free to submit issues and enhancement requests!
 
 **[Gebeya Dala](https://dala.gebeya.com)** is an intelligent web development platform that accelerates your React development workflow. Build, preview, and deploy web applications, and instant development environments.
 
-🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
+🔗 **Try Dala:** [dala.gebeya.com](https:/.deegotmotinon.com)
 
 ### Why Use Dala?
 
